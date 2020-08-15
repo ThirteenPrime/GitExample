@@ -18,6 +18,7 @@
         </inscope>
       </scope>
       <scope>bloat2</scope>
+      <scope>bloat3</scope>
     </dependency>
   </dependencies>
 </project>
